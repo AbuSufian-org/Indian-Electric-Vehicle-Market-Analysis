@@ -43,9 +43,9 @@ This project offered a hands-on opportunity to:
 2️⃣ **Trend Analysis**: Used statistical methods to identify patterns in EV adoption.  
 3️⃣ **Insights Presentation**: Designed an engaging slide deck to showcase findings.  
 
-You can view the project presentation here: [**LinkedIn**][[(https://docs.google.com/presentation/d/1FdDyTE51Pe-C3zhXpNd1HD7TpHd65eyA/edit?usp=sharing&ouid=102909542088127672371&rtpof=true&sd=true)  ](https://docs.google.com/presentation/d/1FdDyTE51Pe-C3zhXpNd1HD7TpHd65eyA/edit?usp=drive_link&ouid=102909542088127672371&rtpof=true&sd=true)
+You can view the project presentation here: [[**LinkedIn**][[(https://docs.google.com/presentation/d/1FdDyTE51Pe-C3zhXpNd1HD7TpHd65eyA/edit?usp=sharing&ouid=102909542088127672371&rtpof=true&sd=true)  ](https://docs.google.com/presentation/d/1FdDyTE51Pe-C3zhXpNd1HD7TpHd65eyA/edit?usp=drive_link&ouid=102909542088127672371&rtpof=true&sd=true)
 ](https://www.linkedin.com/posts/abusufianorg_codebasicsresumechallenge12-electricvehicle-activity-7278342401906106368-VlXA?utm_source=share&utm_medium=member_desktop)
----
+---](https://www.linkedin.com/posts/abusufianorg_codebasicsresumechallenge12-electricvehicle-activity-7278342401906106368-VlXA?utm_source=share&utm_medium=member_desktop)
 
 ### **Looking Ahead**  
 This project marks the beginning of my journey in data analytics. By exploring real-world datasets and presenting meaningful insights, I aim to continue contributing to projects that have a tangible impact.  
